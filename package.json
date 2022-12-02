@@ -10,6 +10,7 @@
   "dependencies": {
     "@mlqt/vue-back-top": "^1.0.8",
     "core-js": "^3.6.5",
+    "gh-pages": "^4.0.0",
     "hooper": "^0.3.4",
     "node-sass": "^7.0.3",
     "sass-loader": "^10.1.1",
